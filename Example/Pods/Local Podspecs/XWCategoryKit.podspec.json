@@ -1,0 +1,22 @@
+{
+  "name": "XWCategoryKit",
+  "version": "2",
+  "summary": "A short description of XWCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wxy13382050875/XWCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "武新义": "ly-080208@163.com"
+  },
+  "source": {
+    "git": "https://github.com/wxy13382050875/XWCategoryKit.git",
+    "tag": "2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XWCategoryKit/Classes/**/*"
+}
